@@ -24,20 +24,4 @@ Added: Monk's staff
 Added: Broken glass bottle
 Fixed: Now "Bloody knife" has the propper texture again
 
-
-v 0.4
-
-improved: textures
-improved: damage dealth by projectiles of melee weapons will now count as dealth by player
-changed: rebalanced stats of some weapons
-Added: bone sword
-Added: copper shortsword
-Added: adventurer's sword
-Added: dungeor warrior's sword
-Added: rapier
-Added: claymore
-Added: STOP sign
-Added: rolled newspapaer
-Added: sword of life
-Added: enchanted battleaxe
-Added: sword of power
+*There's also an easter egg now! can you find it, comrade ?
